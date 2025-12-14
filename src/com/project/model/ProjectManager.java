@@ -34,4 +34,9 @@ public class ProjectManager {
             .sorted((t1, t2) -> t1.getDueDate().compareTo(t2.getDueDate())) // tarihe göre sırala
             .collect(Collectors.toList());
     }
+ // Polimorfik Özellik: Görevleri verilen sıralayıcıya (TaskSorter) göre sıralar
+    public List<Task> getSortedTasks(Project project, TaskSorter sorter) {
+        // TaskSorter arayüzü sayesinde, hangi sıralama mantığı verilirse o çalışır
+        return sorter.sort(project.getTasks());
+    }
 }
