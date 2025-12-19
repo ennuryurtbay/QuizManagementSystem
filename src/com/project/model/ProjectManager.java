@@ -55,6 +55,11 @@ public class ProjectManager {
             System.err.println("Dosya kaydedilirken hata oluştu: " + e.getMessage());
         }
     }
+
+	public List<Task> getSortedTasks(Project p1, TaskSorter prioritySorter) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
 
 
