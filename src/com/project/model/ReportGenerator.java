@@ -6,7 +6,7 @@ import java.util.List;
 public abstract class ReportGenerator {
     
 
-    public abstract String generateReport(List<Project> projects);
+    public abstract String generateReport(List<Quiz> projects);
     
 
     public void printHeader(String reportType) {

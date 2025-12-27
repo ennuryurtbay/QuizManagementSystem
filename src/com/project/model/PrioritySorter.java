@@ -4,13 +4,12 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// Görevleri önceliğe göre sıralayan polimorfik sınıf
-public class PrioritySorter implements TaskSorter {
+// Soruları puan değerine göre yüksekten düşüğe sıralar
+public class PrioritySorter implements QuestionSorter {
     @Override
-    public List<Task> sort(List<Task> tasks) {
-        // En yüksek öncelikli görevler (en büyük değer) en başta
-        return tasks.stream()
-            .sorted(Comparator.comparingInt(Task::getPriority).reversed())
+    public List<Question> sort(List<Question> questions) {
+        return questions.stream()
+            .sorted(Comparator.comparingInt(Question::getPoints).reversed())
             .collect(Collectors.toList());
     }
 }
