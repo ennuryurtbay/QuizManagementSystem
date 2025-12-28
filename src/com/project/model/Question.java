@@ -1,7 +1,7 @@
 package com.project.model;
 //Geliştirme sürecinin başında 'Task' olarak modellenen bu yapı, sınav sistemine özelleştirilerek 'Question' sınıfına dönüştürülmüştür.
 public abstract class Question implements Gradable {
-    private int id; // Değişken ismimiz bu
+    private int id; 
     private String text;
     private String correctAnswer;
     private int points;
@@ -13,7 +13,7 @@ public abstract class Question implements Gradable {
         this.points = points;
     }
 
-    // BU METODU EKLE: MainFrame burayı arıyor
+
     public int getId() {
         return id;
     }

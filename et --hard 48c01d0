@@ -1,0 +1,70 @@
+[33m38bd02d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/main
+[33m38bd02d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: rebase: fast-forward
+[33m3f869e6[m HEAD@{2}: rebase: fast-forward
+[33m62a7087[m HEAD@{3}: rebase: fast-forward
+[33mbca372d[m HEAD@{4}: rebase: fast-forward
+[33m7450be0[m HEAD@{5}: rebase (start): checkout 71badce^
+[33m38bd02d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: filter-branch: rewrite
+[33m2d51561[m HEAD@{7}: rebase (finish): returning to refs/heads/main
+[33m2d51561[m HEAD@{8}: rebase (pick): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33mac88e5d[m HEAD@{9}: rebase (pick): Update README.md
+[33mafb10b2[m HEAD@{10}: rebase (pick): GUN 13: Proje raporlama sureci resmi olarak baslatildi.
+[33m2e8b87b[m HEAD@{11}: commit (amend): GUN 12: UML Sinif ve Use-Case diyagramlari PNG formatinda eklendi.
+[33mbca372d[m HEAD@{12}: rebase: fast-forward
+[33m7450be0[m HEAD@{13}: rebase (start): checkout 71badce^
+[33mb56d474[m HEAD@{14}: commit (amend): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m38bd02d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{15}: filter-branch: rewrite
+[33mf98c4a1[m HEAD@{16}: rebase (finish): returning to refs/heads/main
+[33mf98c4a1[m HEAD@{17}: rebase (pick): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m7fbf08c[m HEAD@{18}: rebase (pick): Update README.md
+[33m394741d[m HEAD@{19}: rebase (pick): GUN 13: Proje raporlama sureci resmi olarak baslatildi.
+[33md3d5675[m HEAD@{20}: commit (amend): GUN 12: UML Sinif ve Use-Case diyagramlari PNG formatinda eklendi.
+[33m71badce[m HEAD@{21}: rebase: fast-forward
+[33m7450be0[m HEAD@{22}: rebase (start): checkout 71badce^
+[33m48c01d0[m HEAD@{23}: commit (amend): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m8ec3d99[m HEAD@{24}: filter-branch: rewrite
+[33m733d7c6[m HEAD@{25}: reset: moving to origin/main
+[33m733d7c6[m HEAD@{26}: rebase (finish): returning to refs/heads/main
+[33m733d7c6[m HEAD@{27}: rebase (pick): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m2c77706[m HEAD@{28}: rebase (pick): Update README.md
+[33mdfa8aa2[m HEAD@{29}: rebase (pick): GUN 13: Proje raporlama sureci resmi olarak baslatildi.
+[33m7f7dc91[m HEAD@{30}: rebase (pick): GUN 12: UML Sinif ve Use-Case diyagramlari PNG formatinda eklendi.
+[33m4a6570a[m HEAD@{31}: rebase (pick): GUN 11: GitHub Projects Kanban Board kurulumu yapildi ve siralama mantigi optimize edildi.
+[33m42d240f[m HEAD@{32}: rebase (pick): GUN 10: Projenin yarisi tamamlandi. Javadoc dokumantasyonu eklendi, paket yapisi temizlendi ve birim testler dogrulandi.
+[33md9620db[m HEAD@{33}: rebase (pick): GUN 9: Hata yakalama (Exception) ve siralama mantigi icin ileri seviye birim testleri eklendi.
+[33m392682c[m HEAD@{34}: rebase (pick): GUN 8: JUnit 5 test yapisi kuruldu. ProjectManager icin temel birim testleri (Unit Tests) yazildi.
+[33mf9fa853[m HEAD@{35}: rebase (pick): GUN 7: Dosya islemleri (Java I/O) eklendi. Verilerin proje_verileri.txt dosyasina kaydedilmesi saglandi.
+[33m45f6d27[m HEAD@{36}: rebase (pick): GUN 6: Veri yapilari gelistirildi. List yerine HashMap kullanilarak ID tabanli hizli erisim saglandi.
+[33m95602fb[m HEAD@{37}: rebase (pick): GUN 5: Ozel istisna siniflari (Custom Exceptions) eklendi. ProjectManager, bulunamayan ogeler icin hata firlatacak sekilde guncellendi.
+[33m37d20d0[m HEAD@{38}: rebase (pick): GUN 4: Soyutlama (ReportGenerator) uygulandi ve temel MainApp sinifi eklenerek projenin calistirilmasi saglandi.
+[33m78e6380[m HEAD@{39}: rebase (pick): GUN 3: Polimorfizm icin TaskSorter arayuzu ve bunu uygulayan PrioritySorter/DueDateSorter siniflari eklendi. ProjectManager guncellendi.
+[33m54faa91[m HEAD@{40}: rebase (pick): GUN 2: Kalitim (TimedTask) uygulandi. Project ve ProjectManager siniflari eklenerek temel yonetim metodlari (gorev atama, liste) tanimlandi.
+[33m690d7e8[m HEAD@{41}: commit (amend): GÜN 1: Proje iskeleti oluşturuldu. Temel varlık sınıfları (Question, Quiz) ve puanlama mantığı için Gradable arayüzü tanımlandı. Kapsülleme (Encapsulation) prensipleri uygulandı.
+[33m3ef41e9[m HEAD@{42}: commit (amend): GÜN 1: Proje iskeleti oluşturuldu. Temel varlık sınıfları (Question, Quiz) ve puanlama mantığı için Gradable arayüzü tanımlandı. Kapsülleme (Encapsulation) prensipleri uygulandı.
+[33mf72cce5[m HEAD@{43}: rebase: fast-forward
+[33m5baf188[m HEAD@{44}: rebase (start): checkout f72cce5^
+[33m735e57c[m HEAD@{45}: commit (amend): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m6bde0f0[m HEAD@{46}: commit (amend): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m1ed32fd[m HEAD@{47}: pull origin main --rebase (finish): returning to refs/heads/main
+[33m1ed32fd[m HEAD@{48}: pull origin main --rebase (pick): GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33m2eb37de[m HEAD@{49}: pull origin main --rebase (start): checkout 2eb37deaf9cfe6d23353cad26c4a66ed2ca918e8
+[33mab797d9[m HEAD@{50}: commit: GUN 14: Core business logic renamed from Task to Question for Quiz System domain mapping.
+[33md37af51[m HEAD@{51}: commit: GUN 13: Proje raporlama sureci resmi olarak baslatildi.
+[33m15733d5[m HEAD@{52}: commit: GUN 12: UML Sinif ve Use-Case diyagramlari PNG formatinda eklendi.
+[33m88cf8ff[m HEAD@{53}: commit: GUN 11: GitHub Projects Kanban Board kurulumu yapildi ve siralama mantigi optimize edildi.
+[33m5c5036a[m HEAD@{54}: commit: GUN 10: Projenin yarisi tamamlandi. Javadoc dokumantasyonu eklendi, paket yapisi temizlendi ve birim testler dogrulandi.
+[33m5e48cb3[m HEAD@{55}: commit: GUN 9: Hata yakalama (Exception) ve siralama mantigi icin ileri seviye birim testleri eklendi.
+[33m66d2514[m HEAD@{56}: commit: GUN 8: JUnit 5 test yapisi kuruldu. ProjectManager icin temel birim testleri (Unit Tests) yazildi.
+[33m23fe0a6[m HEAD@{57}: commit: GUN 7: Dosya islemleri (Java I/O) eklendi. Verilerin proje_verileri.txt dosyasina kaydedilmesi saglandi.
+[33m47009e8[m HEAD@{58}: commit: GUN 6: Veri yapilari gelistirildi. List yerine HashMap kullanilarak ID tabanli hizli erisim saglandi.
+[33mb3c2068[m HEAD@{59}: commit: GUN 5: Ozel istisna siniflari (Custom Exceptions) eklendi. ProjectManager, bulunamayan ogeler icin hata firlatacak sekilde guncellendi.
+[33mb80a6a6[m HEAD@{60}: commit: GUN 4: Soyutlama (ReportGenerator) uygulandi ve temel MainApp sinifi eklenerek projenin calistirilmasi saglandi.
+[33m15c8d93[m HEAD@{61}: commit (amend): GUN 3: Polimorfizm icin TaskSorter arayuzu ve bunu uygulayan PrioritySorter/DueDateSorter siniflari eklendi. ProjectManager guncellendi.
+[33m356abcc[m HEAD@{62}: commit: GUN 3: Polimorfizm icin TaskSorter arayuzu ve bunu uygulayan PrioritySorter/DueDateSorter siniflari eklendi. ProjectManager guncellendi.
+[33m7335487[m HEAD@{63}: commit: GUN 2: Kalitim (TimedTask) uygulandi. Project ve ProjectManager siniflari eklenerek temel yonetim metodlari (gorev atama, liste) tanimlandi.
+[33mf72cce5[m HEAD@{64}: commit (amend): GUN 1: Temel model siniflari (Task, User) ve Completable arayuzu eklendi. Kapsulleme ve Arayuz gereksinimleri tanimlandi.
+[33m61a26f3[m HEAD@{65}: commit (amend): GUN 1: Temel model siniflari (Task, User) ve Completable arayuzu eklendi. Kapsulleme ve Arayuz gereksinimleri tanimlandi.
+[33mf5ff17b[m HEAD@{66}: commit (amend): GUN 1: Temel model siniflari (Task, User) ve Completable arayuzu eklendi. Kapsulleme ve Arayuz gereksinimleri tanimlandi.
+[33mbded418[m HEAD@{67}: commit (amend): GUN 1: Temel model siniflari (Task, User) ve Completable arayuzu eklendi. Kapsulleme ve Arayuz gereksinimleri tanimlandi.
+[33m6637a3e[m HEAD@{68}: commit: GUN 1: Temel model siniflari (Task, User) ve Completable arayuzu eklendi. Kapsulleme ve Arayuz gereksinimleri tanimlandi.
+[33m5baf188[m HEAD@{69}: clone: from https://github.com/ennuryurtbay/TaskProjectManager.git

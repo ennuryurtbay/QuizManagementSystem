@@ -13,11 +13,11 @@ public class MainApp {
 
         QuizManager manager = new QuizManager();
 
-        // Örnek bir Sınav (Quiz) ve Soru ekleyelim
+      
         Quiz finalSinavi = new Quiz(1, "Nesne Tabanlı Programlama Finali");
         manager.addQuiz(finalSinavi);
 
-        // Çoktan seçmeli bir soru ekleyelim (Kalıtım ve Polimorfizm örneği)
+      //(Kalıtım ve Polimorfizm örneği)
         MultipleChoiceQuestion q1 = new MultipleChoiceQuestion(
             1, "Java'da çok biçimlilik hangi anahtar kelimeyle sağlanır?", 
             "Polimorfizm", 20, Arrays.asList("Kalıtım", "Kapsülleme", "Polimorfizm")
